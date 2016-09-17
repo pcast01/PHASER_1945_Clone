@@ -31,7 +31,7 @@ BasicGame.Preloader.prototype = {
     this.load.image('powerup1', 'assets/powerup1.png');
     this.load.image('bomb', 'assets/bomb.png');
     this.load.spritesheet('destroyer', 'assets/destroyer.png', 32, 174); //96x174
-    this.load.spritesheet('bombBlast', 'assets/Bomb-Blast.png', 800, 600); // 1600x600 width X Height
+    this.load.spritesheet('bombBlast', 'assets/bomb-blast.png', 800, 600); // 1600x600 width X Height
     this.load.spritesheet('greenEnemy', 'assets/enemy.png', 32, 32);
     this.load.spritesheet('whiteEnemy', 'assets/shooting-enemy.png', 32, 32);
     this.load.spritesheet('boss', 'assets/boss.png', 93, 75);
