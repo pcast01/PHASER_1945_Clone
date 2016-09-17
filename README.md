@@ -1,6 +1,8 @@
 # Phaser HTML/JS - 1945 Clone
 I ran across this article on Reddit and have been wanting to get more into Javascript so I did it and also added an extra enemy destroyer and Bombs.
 
+To play the game go to [1945 Clone](https://pcast01.github.io/PHASER_1945_Clone/)
+
 *Below are the links for the tutorial*
 
 
